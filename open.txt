@@ -4,6 +4,14 @@ Alteraçāo de título
 
 Alter 17 september
 
+<<<<<<< HEAD
 Alter one
 Alter two
 Alter three
+=======
+Alter 1
+Alter 2
+Alter 3
+>>>>>>> develop
+
+
