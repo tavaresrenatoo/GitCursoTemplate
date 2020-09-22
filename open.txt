@@ -3,3 +3,7 @@ Este é o conteúdo do curso.
 Alteraçāo de título
 
 Alter 17 september
+
+Alter one
+Alter two
+Alter three
